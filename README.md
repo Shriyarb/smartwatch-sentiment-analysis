@@ -1,1 +1,1 @@
-# smart-watch-sentiment
+# smartwatch-sentiment-analysis
